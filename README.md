@@ -1,2 +1,2 @@
 # test-repo
-repo for test git feature
+repo for testing git feature
